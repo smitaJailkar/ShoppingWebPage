@@ -6,9 +6,11 @@ SmitaShop is a fully responsive ecommerce website, maximum compatiblities in all
 
 ## Demo
 
-![Smita Desktop Demo](./website-demo-image/Desktop.jpg "Desktop Demo")
+[SmitaShop Desktop Demo]
+![Desktop](https://github.com/smitaJailkar/ShoppingWebPage/assets/122023246/53ddcd51-1780-442f-8011-1002376fba63)
 
-![Smita Mobile Demo](./website-demo-image/Mobile.jpg "Mobile Demo")
+[SmitaShop Mobile Demo]
+![Mobile](https://github.com/smitaJailkar/ShoppingWebPage/assets/122023246/41c37c3f-cd61-4887-9a51-7f31f59e6d5f)
 
 ## Prerequisites
 
