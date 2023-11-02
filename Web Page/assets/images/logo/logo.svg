@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <text x="10" y="50" font-family="Arial" font-size="40" fill="black">S</text>
+  <text x="40" y="50" font-family="Arial" font-size="40" fill="black">M</text>
+  <text x="80" y="50" font-family="Arial" font-size="40" fill="black">I</text>
+  <text x="100" y="50" font-family="Arial" font-size="40" fill="black">T</text>
+  <text x="130" y="50" font-family="Arial" font-size="40" fill="black">A</text>
+</svg>
